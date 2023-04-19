@@ -1,4 +1,4 @@
-# 최원영과 이소민의 결혼식 모바일 청첩장
+# 오현우과 전이나의 결혼식 모바일 청첩장
 ![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)
 
 test
@@ -57,7 +57,7 @@ sudo forever start happyMarriage.js
 원영아 결혼 정말 축하하구 신부도 정말 이쁘다 ㅎ 잘살아 히힛
 
 ### 부산대 백수
-원영이형 소민이 결혼 정말 축하드려요!!!, while(true) { 최원영 = 이소민 = :heart:; }
+원영이형 소민이 결혼 정말 축하드려요!!!, while(true) { 오현우 = 전이나 = :heart:; }
 
 ### 쿠팡X 김범석
 원영씨 축하해요~ 
