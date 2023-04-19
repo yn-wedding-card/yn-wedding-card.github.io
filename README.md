@@ -1,4 +1,4 @@
-# 오현우과 전이나의 결혼식 모바일 청첩장
+# 최원영과 이소민의 결혼식 모바일 청첩장
 ![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)
 
 test
@@ -10,7 +10,7 @@ test
 
 ## 예식정보
 
-* 날짜 : 2023년 12월 10일 14시
+* 날짜 : 2023년 4월 22일 14시 30분
 * 장소 : 서울특별시 서초구 신반포로 176 JW 메리어트 호텔 서울
 * 청첩장 url : https://hyunw55.github.io/wedding-card/
 
@@ -57,7 +57,7 @@ sudo forever start happyMarriage.js
 원영아 결혼 정말 축하하구 신부도 정말 이쁘다 ㅎ 잘살아 히힛
 
 ### 부산대 백수
-원영이형 소민이 결혼 정말 축하드려요!!!, while(true) { 오현우 = 전이나 = :heart:; }
+원영이형 소민이 결혼 정말 축하드려요!!!, while(true) { 최원영 = 이소민 = :heart:; }
 
 ### 쿠팡X 김범석
 원영씨 축하해요~ 
@@ -66,7 +66,7 @@ sudo forever start happyMarriage.js
 val choileeMarriage = Marriage.Builder()
   .addEvent("결혼식")
   .addLocation("서울특별시 서초구 신반포로 176 JW 메리어트 호텔 서울")
-  .addDateTime("2023년 12월 10일 14시")
+  .addDateTime("2023년 4월 22일 14시 30분")
   .build();
   
 ### 한정현 (원영님 같은팀 동료)  
