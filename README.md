@@ -10,7 +10,7 @@ test
 
 ## 예식정보
 
-* 날짜 : 2023년 4월 22일 14시 30분
+* 날짜 : 2023년 12월 10일 14시
 * 장소 : 서울특별시 서초구 신반포로 176 JW 메리어트 호텔 서울
 * 청첩장 url : https://hyunw55.github.io/wedding-card/
 
@@ -66,7 +66,7 @@ sudo forever start happyMarriage.js
 val choileeMarriage = Marriage.Builder()
   .addEvent("결혼식")
   .addLocation("서울특별시 서초구 신반포로 176 JW 메리어트 호텔 서울")
-  .addDateTime("2023년 4월 22일 14시 30분")
+  .addDateTime("2023년 12월 10일 14시")
   .build();
   
 ### 한정현 (원영님 같은팀 동료)  
